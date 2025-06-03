@@ -1,4 +1,27 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "Monster Classes Stout 1",
+				"abbreviation": "MCS1",
+				"full": "Monster Classes Stout 1",
+				"url": "https://github.com/stoutde/homebrew_5e/edit/main/TitMI.json",
+				"authors": [
+					"Dennis E. Stout"
+				],
+				"convertedBy": [
+					"Dennis E. Stout"
+				],
+				"color": "006600",
+				"version": "1.0"
+			}
+		],
+		"dateAdded": 1748959636,
+		"dateLastModified": 1729630006,
+		"_dateLastModifiedHash": "829314fdd7",
+		"edition": "classic"
+	},
+{
 	"name": "Vine Horror Spellfiend",
 	"size": [
 		"M"
