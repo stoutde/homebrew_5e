@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "TroubleintheMoonshaeIsles",
-				"abbreviation": "TitMI",
-				"full": "Trouble in the Moonshae Isles",
+				"json": "CultOfTheDeviledCow",
+				"abbreviation": "CotDC",
+				"full": "Cult of the Deviled Cow",
 				"version": "1",
 				"authors": [
 					"Dennis E. Stout"
@@ -18,9 +18,9 @@
 	},
 	"adventure": [
 		{
-			"name": "Trouble in the Moonshae Isles",
-			"id": "TitMI",
-			"source": "TroubleintheMoonshaeIsles",
+			"name": "Cult of the Deviled Cow",
+			"id": "CotDC",
+			"source": "CultOfTheDeviledCow",
 			"group": "homebrew",
 			"storyline": "Moonshae",
 			"level": {
@@ -53,15 +53,15 @@
 	],
 	"adventureData": [
 		{
-			"id": "TitMI",
-			"source": "TroubleintheMoonshaeIsles",
+			"id": "CotDC",
+			"source": "CultOfTheDeviledCow",
 			"data": [
 				{
 					"type": "section",
 					"name": "Introduction",
 					"page": 2,
 					"entries": [
-						"Trouble in the Moonshae Isles is a DUNGEONS AND DRAGONS adventure for characters of level 5."
+						"Cult of the Deviled Cow is a DUNGEONS AND DRAGONS adventure for characters of level 5."
 					]
 				}
 			]
@@ -70,7 +70,7 @@
 	"data": [
 		{
 			"type": "section",
-			"name": "Trouble In The Moonshae Isles",
+			"name": "Cult of the Deviled Cow",
 			"page": 2,
 			"entries": [
 				"This adventure might happen!",
@@ -93,7 +93,7 @@
 				"M"
 			],
 			"type": "plant",
-			"source": "TitMI",
+			"source": "CotDC",
 			"alignment": [
 				"N",
 				"E"
