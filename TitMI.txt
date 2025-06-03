@@ -1,0 +1,104 @@
+{
+	"name": "Vine Horror Spellfiend",
+	"size": [
+		"M"
+	],
+	"type": "plant",
+	"source": "TitMI",
+	"alignment": [
+		"N",
+		"E"
+	],
+	"ac": [
+		{
+			"ac": 19,
+			"from": [
+				"natural armor"
+			]
+		}
+	],
+	"hp": {
+		"formula": "8d8 + 24",
+		"average": 60
+	},
+	"speed": {
+		"walk": 30,
+		"swim": 30
+	},
+	"str": 18,
+	"dex": 18,
+	"con": 17,
+	"int": 11,
+	"wis": 14,
+	"cha": 10,
+	"passive": 12,
+	"cr": "4",
+	"senses": [
+		"blindsight 10 ft."
+	],
+	"senseTags": [
+		"B"
+	],
+	"languages": [
+		"Common",
+		"Infernal"
+	],
+	"languageTags": [
+		"C",
+		"I"
+	],
+	"immune": [
+		"acid"
+	],
+	"skill": {
+		"stealth": "+8"
+	},
+	"save": {
+		"dex": "+6",
+		"con": "+5",
+		"wis": "+4"
+	},
+	"environment": [
+		"forest",
+		"swamp",
+		"underdark",
+		"underwater"
+	],
+	"fluff": {
+		"entries": [
+			"This tangled mass of vines and leaves is draped across tree branches, roots, shallow puddles, or over rocks."
+		]
+	},
+	"action": [
+		{
+			"name": "Claw",
+			"entries": [
+				"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage."
+			]
+		},
+		{
+			"name": "Shock Orb",
+			"entries": [
+				"{@atk rw} {@hit 6} to hit, range 5/50 ft., one target. {@h}7 ({@damage 1d6 + 4}) lightning damage."
+			]
+		},
+		{
+			"name": "Lashing Vine of Dread",
+			"entries": [
+				"{@atk rw} {@hit 6} to hit, range 5/25 ft., one target. {@h}7 ({@damage 1d6 + 4}) bludgeoning damage, and target is pushed 25 ft."
+			]
+		}
+	],
+	"miscTags": [
+		"MW",
+		"RW"
+	],
+	"savingThrowForcedSpell": [
+		"constitution"
+	],
+	"damageTags": [
+		"B",
+		"L",
+		"S"
+	]
+}
