@@ -48,6 +48,22 @@
 			]
 		}
 	],
+	"adventureData": [
+		{
+			"id": "TitMI",
+			"source": "TroubleintheMoonshaeIsles",
+			"data": [
+				{
+					"type": "section",
+					"name": "Introduction",
+					"page": 2,
+					"entries": [
+						"Trouble in the Moonshae Isles is a DUNGEONS AND DRAGONS adventure for characters of level 5."
+					]
+				}
+			]
+		}
+	],
 	"data": [
 		{
 			"type": "section",
