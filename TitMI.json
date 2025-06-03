@@ -13,6 +13,41 @@
 			}
 		]
 	},
+	"adventure": [
+		{
+			"name": "Trouble in the Moonshae Isles",
+			"id": "TitMI",
+			"source": "TroubleintheMoonshaeIsles",
+			"group": "homebrew",
+			"storyline": "Moonshae",
+			"level": {
+				"custom": "5"
+			},
+			"published": "2025-06-03",
+			"contents": [
+				{
+					"name": "Introduction",
+					"headers": [
+						"Adventure Primer",
+						{
+							"depth": 1,
+							"header": "Overview"
+						},
+						{
+							"depth": 1,
+							"header": "Background"
+						},
+						{
+							"depth": 1,
+							"header": "Character Hooks"
+						},
+						"Adjusting the Adventure",
+						"Adventure Flow"
+					]
+				}
+			]
+		}
+	]
 	"data": [
 		{
 			"type": "section",
