@@ -18,7 +18,7 @@
 			]
 		},
 		"dateAdded": 1748955600,
-		"dateLastModified": 1748955602,
+		"dateLastModified": 1748955603,
 		"status": "ready"
 	},
 	"adventure": [
@@ -33,7 +33,8 @@
 			},
 			"storyline": "Moonshae",
 			"level": {
-				"custom": "5"
+				"start": 5,
+				"end": 8
 			},
 			"published": "2025-06-03",
 			"contents": [
@@ -70,7 +71,24 @@
 					"name": "Introduction",
 					"page": 2,
 					"entries": [
-						"Cult of the Deviled Cow is a DUNGEONS AND DRAGONS adventure for characters of level 5."
+						{
+							"type": "image",
+							"href": {
+								"type": "external",
+								"url": "https://static.wikia.nocookie.net/non-aliencreatures/images/5/5f/Blackdragon.jpg/revision/latest?cb=20101124082127"
+							},
+							"width": 800
+						},
+						{
+							"type": "entries",
+							"page": 2,
+							"style": "text-center",
+							"entries": [
+								"{@style an adventure for characters of level 5 who wish to save the Moonshae Isle and secure the Sword Coasts primary source of iron and other natural resources|dnd-font;large}",
+								"by Dennis E. Stout"
+							],
+							"id": "001"
+						}
 					]
 				}
 			]
