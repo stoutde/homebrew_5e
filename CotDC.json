@@ -29,7 +29,7 @@
 			"group": "homebrew",
 			"cover": {
 				"type": "external",
-				"url": "https://static.wikia.nocookie.net/non-aliencreatures/images/5/5f/Blackdragon.jpg/revision/latest?cb=20101124082127"
+				"url": "https://raw.githubusercontent.com/stoutde/homebrew_5e/refs/heads/main/Blackdragon.webp"
 			},
 			"storyline": "Moonshae",
 			"level": {
@@ -75,7 +75,7 @@
 							"type": "image",
 							"href": {
 								"type": "external",
-								"url": "https://static.wikia.nocookie.net/non-aliencreatures/images/5/5f/Blackdragon.jpg/revision/latest?cb=20101124082127"
+								"url": "https://raw.githubusercontent.com/stoutde/homebrew_5e/refs/heads/main/Blackdragon.webp"
 							},
 							"width": 991,
 							"height": 692
@@ -85,7 +85,7 @@
 							"page": 2,
 							"style": "text-center",
 							"entries": [
-								"{@style an adventure for characters of level 5 who wish to save the Moonshae Isle and secure the Sword Coasts primary source of iron and other natural resources|dnd-font;large}",
+								"{@style an adventure for characters of level 5 who wish to save the Moonshae Isle |dnd-font;large}",
 								"by Dennis E. Stout"
 							],
 							"id": "001"
